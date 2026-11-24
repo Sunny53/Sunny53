@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sunny Patel
 
-<!--
-**Sunny53/Sunny53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst and aspiring data engineer in Savannah, GA. I build data pipelines, SQL models, and dashboards, and I care about getting the data right and saying plainly what it does and doesn't show.
 
-Here are some ideas to get you started:
+B.S. in Information Technology (Data Analysis), Georgia Southern University, 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+**[Olist Weather-Delay Analysis](https://github.com/Sunny53/Automated_Logistics_Risk)**: a dbt + Snowflake pipeline joining 99,441 Brazilian e-commerce orders with 10M+ historical weather records. Orders were 3.2x more likely to be late when severe weather hit the delivery destination (17.3% vs. 5.3%). Includes a Type 2 slowly changing dimension, automated data quality tests, and a walkthrough video.
+
+**[NFL Stats Pipeline](https://github.com/Sunny53/nfl-stats-pipeline)** ([live dashboard](https://nfl-stats-pipeline.streamlit.app/)): an ETL pipeline and Streamlit app covering 2015-2025 QB and WR performance. Star-schema PostgreSQL database, 12 SQL leaderboard views, custom efficiency and consistency metrics, unit tests, and CI.
+
+## Tools
+
+Python, SQL, dbt, Snowflake, PostgreSQL, Pandas, SQLAlchemy, Streamlit, Power BI, Excel, Git
+
+## Find me
+
+- Portfolio: [sunny53.github.io](https://sunny53.github.io/)
+- Email: sunnykp5397@gmail.com
